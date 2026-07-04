@@ -1,0 +1,6 @@
+{
+  "name": "AI Travel Planner & Local Expert Chatbot",
+  "description": "An interactive travel chatbot that connects you with specialized local experts to discover destinations, curate food and shopping, experience local culture, and generate personalized itineraries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
